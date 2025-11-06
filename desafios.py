@@ -13,12 +13,14 @@ Seu objetivo é:
 Boa sorte e bons commits! 🚀
 """
 
+
 def mostrar_mensagem_inicial():
     """
     Exibe uma mensagem de boas-vindas ao desafio.
     Retorno esperado: string com a mensagem "Bem-vindo ao Desafio de Git!"
     """
-    pass
+    print("Bem-vindo ao Desafio de Git!")
+
 
 def listar_comandos_git_basicos():
     """
